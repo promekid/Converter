@@ -1,8 +1,5 @@
 #include <iostream>
 #include <format>
-#include <limits>
-#include <cctype>
-
 
 int main()
 {
@@ -31,3 +28,4 @@ int main()
     }
     return 0;
 }
+
